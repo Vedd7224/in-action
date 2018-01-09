@@ -1,6 +1,16 @@
 header {
-  background-color: #0B6BD8;
-  position: absolute;
+  background-color: #D8CC0B;
+  color: black;
+  margin-bottom: 10%;
   width: 100%; }
+  header nav a {
+    text-decoration: none;
+    color: black; }
+
+.whole-section {
+  margin-top: 15%; }
+  .whole-section aside, .whole-section .category {
+    display: block;
+    float: right; }
 
 /*# sourceMappingURL=_home.css.map */
